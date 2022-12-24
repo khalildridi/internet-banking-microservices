@@ -15,7 +15,7 @@ Here this project consist of mainly 6 microservices and those are,
 ### Base Project Architecture
 
 <a href="#" target="blank">
-    <img align="center" src="draw_io/Microservices-Article-Banking-Core-Concept-1024x870.png"
+    <img align="center" src="draw_io\Microservices-Article-Banking-Core-Concept-1024x870.png"
 alt="Spring Boot Microservices Project Architecture "/></a>
 
 ### Technology Stack
