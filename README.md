@@ -1,5 +1,3 @@
-[![Java CI with Gradle](https://github.com/javatodev/internet-banking-concept-microservices/actions/workflows/gradle.yml/badge.svg)](https://github.com/javatodev/internet-banking-concept-microservices/actions/workflows/gradle.yml)
-
 # Internet Banking Concept With Java Spring Boot Microservices
 
 In this article series I’m going to explain using internet banking API concept with spring boot based microserices architecture. Initially I’ll develop the core API which will evolve as a full fledged REST API collection until deployments.
